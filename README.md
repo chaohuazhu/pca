@@ -40,4 +40,4 @@
 
   ![](https://raw.githubusercontent.com/Leungtamir/mymarkdownphoto/master/pca_img/y.png)
 
-**和原始数据的识别正确率相同，因此PCA能把1024维数据降到70维并且保持正确率不变，对于本样本来说，70维是最好的选**
+**和原始数据的识别正确率相同，因此PCA能把1024维数据降到70维并且保持正确率不变，对于本样本来说，70维是最好选择**
