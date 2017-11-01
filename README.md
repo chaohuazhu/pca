@@ -3,7 +3,7 @@
 * X : m行n列数据，每行为1个样本，每个样本维度为n
 * dims : 目标维度
 * Wlda : n行dims列投影向量
-* PCA原理推导在我的个人博客 [www.liangtianming.com](www.baidu.com)
+* PCA原理推导在我的个人博客 [www.liangtianming.com](http://www.liangtianming.com/2017/10/31/PCA/)
 * 问题和讨论可以发到我的邮箱 tm.liang@outlook.com
 * 2017.11.1
 
